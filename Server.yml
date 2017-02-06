@@ -2,54 +2,74 @@
 TSGuild:
   45.32.53.206: 레오서버-mintoes
   45.76.219.24: 아론온라인-blka
+  45.76.209.200: 하이플온라인-starmandu
 TSAnnounce:
   45.32.53.206: 레오서버-mintoes
   45.76.219.24: 아론온라인-blka
+  45.76.209.200: 하이플온라인-starmandu
 TSBox:
   45.32.53.206: 레오서버-mintoes
   118.33.237.101: 에루서버-eru
   45.76.219.24: 아론온라인-blka
+  45.76.209.200: 하이플온라인-starmandu
 TSBurningEvent:
   45.32.53.206: 레오서버-mintoes
   118.33.237.101: 에루서버-eru
   45.76.219.24: 아론온라인-blka
+  45.76.209.200: 하이플온라인-starmandu
 TSCoupon:
   45.32.53.206: 레오서버-mintoes
   45.76.219.24: 아론온라인-blka
+  45.76.209.200: 하이플온라인-starmandu
 TSDontDropCrops:
   45.32.53.206: 레오서버-mintoes
   45.76.219.24: 아론온라인-blka
+  45.76.209.200: 하이플온라인-starmandu
 TSFriend:
   45.32.53.206: 레오서버-mintoes
   118.33.237.101: 에루서버-eru
+  45.76.209.200: 하이플온라인-starmandu
 TSFurnace:
   45.32.53.206: 레오서버-mintoes
+  45.76.209.200: 하이플온라인-starmandu
 TSMine:
   45.32.53.206: 레오서버-mintoes
+  45.76.209.200: 하이플온라인-starmandu
 TSNoColor:
   45.32.53.206: 레오서버-mintoes
   118.33.237.101: 에루서버-eru
+  45.76.209.200: 하이플온라인-starmandu
 TSNoSpam:
   45.32.53.206: 레오서버-mintoes
+  45.76.209.200: 하이플온라인-starmandu
 TSPayToHome:
   45.32.53.206: 레오서버-mintoes
+  45.76.209.200: 하이플온라인-starmandu
 TSPrefix:
   45.32.53.206: 레오서버-mintoes
   118.33.237.101: 에루서버-eru
   45.76.219.24: 아론온라인-blka
+  45.76.209.200: 하이플온라인-starmandu
 TSProposer:
   45.32.53.206: 레오서버-mintoes
+  45.76.209.200: 하이플온라인-starmandu
 TSProtectChest:
   45.32.53.206: 레오서버-mintoes
   118.33.237.101: 에루서버-eru
+  45.76.209.200: 하이플온라인-starmandu
 TSPersonalShop:
   45.32.53.206: 레오서버-mintoes
+  45.76.209.200: 하이플온라인-starmandu
 TSSmartShop:
   45.32.53.206: 레오서버-mintoes
+  45.76.209.200: 하이플온라인-starmandu
 TSTimeToBanCommands:
   45.32.53.206: 레오서버-mintoes
+  45.76.209.200: 하이플온라인-starmandu
 TSTimeBroadCaster:
   45.32.53.206: 레오서버-mintoes
+  45.76.209.200: 하이플온라인-starmandu
 TSTutorial:
   45.32.53.206: 레오서버-mintoes
+  45.76.209.200: 하이플온라인-starmandu
 ...
