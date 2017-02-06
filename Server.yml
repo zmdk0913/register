@@ -3,73 +3,113 @@ TSGuild:
   45.32.53.206: 레오서버-mintoes
   45.76.219.24: 아론온라인-blka
   45.76.209.200: 하이플온라인-starmandu
+  101.79.4.39: 루시아서버-enae
+  45.32.249.24: SKY서버-netherkom
 TSAnnounce:
   45.32.53.206: 레오서버-mintoes
   45.76.219.24: 아론온라인-blka
   45.76.209.200: 하이플온라인-starmandu
+  101.79.4.39: 루시아서버-enae
+  45.32.249.24: SKY서버-netherkom
 TSBox:
   45.32.53.206: 레오서버-mintoes
   118.33.237.101: 에루서버-eru
   45.76.219.24: 아론온라인-blka
   45.76.209.200: 하이플온라인-starmandu
+  101.79.4.39: 루시아서버-enae
+  45.32.249.24: SKY서버-netherkom
 TSBurningEvent:
   45.32.53.206: 레오서버-mintoes
   118.33.237.101: 에루서버-eru
   45.76.219.24: 아론온라인-blka
   45.76.209.200: 하이플온라인-starmandu
+  101.79.4.39: 루시아서버-enae
+  45.32.249.24: SKY서버-netherkom
 TSCoupon:
   45.32.53.206: 레오서버-mintoes
   45.76.219.24: 아론온라인-blka
   45.76.209.200: 하이플온라인-starmandu
+  101.79.4.39: 루시아서버-enae
+  45.32.249.24: SKY서버-netherkom
 TSDontDropCrops:
   45.32.53.206: 레오서버-mintoes
   45.76.219.24: 아론온라인-blka
   45.76.209.200: 하이플온라인-starmandu
+  101.79.4.39: 루시아서버-enae
+  45.32.249.24: SKY서버-netherkom
 TSFriend:
   45.32.53.206: 레오서버-mintoes
   118.33.237.101: 에루서버-eru
   45.76.209.200: 하이플온라인-starmandu
+  101.79.4.39: 루시아서버-enae
+  45.32.249.24: SKY서버-netherkom
 TSFurnace:
   45.32.53.206: 레오서버-mintoes
   45.76.209.200: 하이플온라인-starmandu
+  101.79.4.39: 루시아서버-enae
+  45.32.249.24: SKY서버-netherkom
 TSMine:
   45.32.53.206: 레오서버-mintoes
   45.76.209.200: 하이플온라인-starmandu
+  101.79.4.39: 루시아서버-enae
+  45.32.249.24: SKY서버-netherkom
 TSNoColor:
   45.32.53.206: 레오서버-mintoes
   118.33.237.101: 에루서버-eru
   45.76.209.200: 하이플온라인-starmandu
+  101.79.4.39: 루시아서버-enae
+  45.32.249.24: SKY서버-netherkom
 TSNoSpam:
   45.32.53.206: 레오서버-mintoes
   45.76.209.200: 하이플온라인-starmandu
+  101.79.4.39: 루시아서버-enae
+  45.32.249.24: SKY서버-netherkom
 TSPayToHome:
   45.32.53.206: 레오서버-mintoes
   45.76.209.200: 하이플온라인-starmandu
+  101.79.4.39: 루시아서버-enae
+  45.32.249.24: SKY서버-netherkom
 TSPrefix:
   45.32.53.206: 레오서버-mintoes
   118.33.237.101: 에루서버-eru
   45.76.219.24: 아론온라인-blka
   45.76.209.200: 하이플온라인-starmandu
+  101.79.4.39: 루시아서버-enae
+  45.32.249.24: SKY서버-netherkom
 TSProposer:
   45.32.53.206: 레오서버-mintoes
   45.76.209.200: 하이플온라인-starmandu
+  101.79.4.39: 루시아서버-enae
+  45.32.249.24: SKY서버-netherkom
 TSProtectChest:
   45.32.53.206: 레오서버-mintoes
   118.33.237.101: 에루서버-eru
   45.76.209.200: 하이플온라인-starmandu
+  101.79.4.39: 루시아서버-enae
+  45.32.249.24: SKY서버-netherkom
 TSPersonalShop:
   45.32.53.206: 레오서버-mintoes
   45.76.209.200: 하이플온라인-starmandu
+  101.79.4.39: 루시아서버-enae
+  45.32.249.24: SKY서버-netherkom
 TSSmartShop:
   45.32.53.206: 레오서버-mintoes
   45.76.209.200: 하이플온라인-starmandu
+  101.79.4.39: 루시아서버-enae
+  45.32.249.24: SKY서버-netherkom
 TSTimeToBanCommands:
   45.32.53.206: 레오서버-mintoes
   45.76.209.200: 하이플온라인-starmandu
+  101.79.4.39: 루시아서버-enae
+  45.32.249.24: SKY서버-netherkom
 TSTimeBroadCaster:
   45.32.53.206: 레오서버-mintoes
   45.76.209.200: 하이플온라인-starmandu
+  101.79.4.39: 루시아서버-enae
+  45.32.249.24: SKY서버-netherkom
 TSTutorial:
   45.32.53.206: 레오서버-mintoes
   45.76.209.200: 하이플온라인-starmandu
+  101.79.4.39: 루시아서버-enae
+  45.32.249.24: SKY서버-netherkom
 ...
