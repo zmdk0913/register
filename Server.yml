@@ -4,10 +4,10 @@ TSGuild:
   45.76.219.24: 아론온라인-blka
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
-  1.220.94.186: 핫온라인-hunstrs229
   121.0.123.16: 루시아서버-enae
   45.249.90.226: 미래서버-future24
   45.76.96.30: 마스터온라인-woko0701
+  1.220.94.186: 핫온라인-hunstrs229
 TSAnnounce:
   45.32.53.206: 레오서버-mintoes
   45.76.219.24: 아론온라인-blka
@@ -25,6 +25,7 @@ TSBox:
   118.33.236.153: 포미온라인-kangkang
   121.0.123.16: 루시아서버-enae
   45.249.90.226: 미래서버-future24
+  101.79.4.34: 팜온라인-hyunwoo
   101.79.4.9: 트리서버-landmark
 TSBurningEvent:
   45.32.53.206: 레오서버-mintoes
@@ -32,9 +33,9 @@ TSBurningEvent:
   45.76.219.24: 아론온라인-blka
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
-  1.220.94.186: 핫온라인-hunstrs229
   121.0.123.16: 루시아서버-enae
   45.249.90.226: 미래서버-future24
+  1.220.94.186: 핫온라인-hunstrs229
 TSCoupon:
   45.32.53.206: 레오서버-mintoes
   45.76.219.24: 아론온라인-blka
@@ -67,6 +68,7 @@ TSMine:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
   121.0.123.16: 루시아서버-enae
+  101.79.4.34: 팜온라인-hyunwoo
 TSNoColor:
   45.32.53.206: 레오서버-mintoes
   118.33.237.101: 에루서버-eru
@@ -96,6 +98,7 @@ TSPrefix:
   45.32.249.24: SKY서버-netherkom
   121.0.123.16: 루시아서버-enae
   121.0.122.11: 유란온라인-moren_pe
+  101.79.4.9: 트리서버-landmark
 TSProposer:
   45.32.53.206: 레오서버-mintoes
   45.76.209.200: 하이플온라인-starmandu
@@ -108,17 +111,21 @@ TSProtectChest:
   45.32.249.24: SKY서버-netherkom
   121.0.123.16: 루시아서버-enae
   45.249.90.226: 미래서버-future24
+  1.220.94.186: 핫온라인-hunstrs229
+  101.79.4.34: 팜온라인-hyunwoo
 TSPersonalShop:
   45.32.53.206: 레오서버-mintoes
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
   121.0.123.16: 루시아서버-enae
   45.249.90.226: 미래서버-future24
+  1.220.94.186: 핫온라인-hunstrs229
 TSSmartShop:
   45.32.53.206: 레오서버-mintoes
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
   121.0.123.16: 루시아서버-enae
+  101.79.4.34: 팜온라인-hyunwoo
   101.79.4.9: 트리서버-landmark
 TSTimeToBanCommands:
   45.32.53.206: 레오서버-mintoes
@@ -136,4 +143,6 @@ TSTutorial:
   45.32.249.24: SKY서버-netherkom
   121.0.123.16: 루시아서버-enae
   45.249.90.226: 미래서버-future24
+  1.220.94.186: 핫온라인-hunstrs229
+  101.79.4.34: 팜온라인-hyunwoo
 ...
