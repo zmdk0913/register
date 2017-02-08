@@ -15,6 +15,7 @@ TSAnnounce:
   45.32.249.24: SKY서버-netherkom
   121.0.123.16: 루시아서버-enae
   45.76.96.30: 마스터온라인-woko0701
+  101.79.4.9: 트리서버-landmark
 TSBox:
   45.32.53.206: 레오서버-mintoes
   118.33.237.101: 에루서버-eru
@@ -24,6 +25,7 @@ TSBox:
   118.33.236.153: 포미온라인-kangkang
   121.0.123.16: 루시아서버-enae
   45.249.90.226: 미래서버-future24
+  101.79.4.9: 트리서버-landmark
 TSBurningEvent:
   45.32.53.206: 레오서버-mintoes
   118.33.237.101: 에루서버-eru
@@ -54,6 +56,7 @@ TSFriend:
   45.32.249.24: SKY서버-netherkom
   121.0.123.16: 루시아서버-enae
   45.249.90.226: 미래서버-future24
+  101.79.4.9: 트리서버-landmark
 TSFurnace:
   45.32.53.206: 레오서버-mintoes
   45.76.209.200: 하이플온라인-starmandu
@@ -73,6 +76,7 @@ TSNoColor:
   121.0.123.16: 루시아서버-enae
   45.249.90.226: 미래서버-future24
   45.76.96.30: 마스터온라인-woko0701
+  101.79.4.9: 트리서버-landmark
 TSNoSpam:
   45.32.53.206: 레오서버-mintoes
   45.76.209.200: 하이플온라인-starmandu
@@ -115,6 +119,7 @@ TSSmartShop:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
   121.0.123.16: 루시아서버-enae
+  101.79.4.9: 트리서버-landmark
 TSTimeToBanCommands:
   45.32.53.206: 레오서버-mintoes
   45.76.209.200: 하이플온라인-starmandu
