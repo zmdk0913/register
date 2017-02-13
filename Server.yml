@@ -1,4 +1,5 @@
 ---
+TSSponsor: '[]'
 TSGuild:
   45.32.53.206: 레오서버-mintoes
   45.76.209.200: 하이플온라인-starmandu
@@ -141,8 +142,8 @@ TSPersonalShop:
   1.220.94.186: 핫온라인-hunstrs229
   101.79.4.81: 봄서버-bom
   101.79.4.77: 잎새온라인-flowerdance
-  121.0.122.19: 밀비서버-caster
   121.0.122.21: 미래서버-future24
+  121.0.122.19: 밀비서버-caster
 TSSmartShop:
   45.32.53.206: 레오서버-mintoes
   45.76.209.200: 하이플온라인-starmandu
