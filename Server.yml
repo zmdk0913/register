@@ -1,7 +1,5 @@
 ---
-TSSponsor: '[]'
 TSGuild:
-  45.32.53.206: 레오서버-mintoes
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
   45.76.96.30: 마스터온라인-woko0701
@@ -9,8 +7,8 @@ TSGuild:
   101.79.4.81: 봄서버-bom
   121.0.122.21: 미래서버-future24
   121.0.122.22: 아론온라인-blka
-TSAnnounce:
   45.32.53.206: 레오서버-mintoes
+TSAnnounce:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
   45.76.96.30: 마스터온라인-woko0701
@@ -19,8 +17,8 @@ TSAnnounce:
   101.79.4.81: 봄서버-bom
   121.0.122.21: 미래서버-future24
   121.0.122.22: 아론온라인-blka
-TSBox:
   45.32.53.206: 레오서버-mintoes
+TSBox:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
   118.33.236.153: 포미온라인-kangkang
@@ -32,8 +30,8 @@ TSBox:
   118.33.237.101: 에루서버-eru
   121.0.122.21: 미래서버-future24
   121.0.122.22: 아론온라인-blka
-TSBurningEvent:
   45.32.53.206: 레오서버-mintoes
+TSBurningEvent:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
   1.220.94.186: 핫온라인-hunstrs229
@@ -41,8 +39,8 @@ TSBurningEvent:
   118.33.237.101: 에루서버-eru
   121.0.122.21: 미래서버-future24
   121.0.122.22: 아론온라인-blka
-TSCoupon:
   45.32.53.206: 레오서버-mintoes
+TSCoupon:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
   118.33.236.153: 포미온라인-kangkang
@@ -52,8 +50,8 @@ TSCoupon:
   101.79.4.81: 봄서버-bom
   121.0.122.21: 미래서버-future24
   121.0.122.22: 아론온라인-blka
-TSDontDropCrops:
   45.32.53.206: 레오서버-mintoes
+TSDontDropCrops:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
   101.79.4.29: 루하온라인-hori
@@ -61,8 +59,8 @@ TSDontDropCrops:
   101.79.4.81: 봄서버-bom
   101.79.4.77: 잎새온라인-flowerdance
   121.0.122.22: 아론온라인-blka
-TSFriend:
   45.32.53.206: 레오서버-mintoes
+TSFriend:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
   125.188.117.180: 허스키온라인-husky
@@ -72,19 +70,19 @@ TSFriend:
   118.33.237.101: 에루서버-eru
   121.0.122.21: 미래서버-future24
   121.0.122.22: 아론온라인-blka
-TSFurnace:
   45.32.53.206: 레오서버-mintoes
+TSFurnace:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
   101.79.4.81: 봄서버-bom
-TSMine:
   45.32.53.206: 레오서버-mintoes
+TSMine:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
   101.79.4.34: 팜온라인-hyunwoo
   101.79.4.81: 봄서버-bom
-TSNoColor:
   45.32.53.206: 레오서버-mintoes
+TSNoColor:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
   118.33.236.153: 포미온라인-kangkang
@@ -95,20 +93,20 @@ TSNoColor:
   101.79.4.81: 봄서버-bom
   118.33.237.101: 에루서버-eru
   121.0.122.21: 미래서버-future24
+  45.32.53.206: 레오서버-mintoes
 TSNoSpam:
-  45.32.53.206: 레오서버-mintoes
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
   101.79.4.81: 봄서버-bom
   121.0.122.21: 미래서버-future24
+  45.32.53.206: 레오서버-mintoes
 TSPayToHome:
-  45.32.53.206: 레오서버-mintoes
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
   101.79.4.81: 봄서버-bom
   121.0.122.21: 미래서버-future24
-TSPrefix:
   45.32.53.206: 레오서버-mintoes
+TSPrefix:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
   121.0.122.11: 유란온라인-moren_pe
@@ -119,14 +117,14 @@ TSPrefix:
   118.33.237.101: 에루서버-eru
   121.0.122.21: 미래서버-future24
   121.0.122.22: 아론온라인-blka
-TSProposer:
   45.32.53.206: 레오서버-mintoes
+TSProposer:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
   125.188.117.180: 허스키온라인-husky
   101.79.4.81: 봄서버-bom
-TSProtectChest:
   45.32.53.206: 레오서버-mintoes
+TSProtectChest:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
   101.79.4.34: 팜온라인-hyunwoo
@@ -135,8 +133,8 @@ TSProtectChest:
   118.33.237.101: 에루서버-eru
   121.0.122.21: 미래서버-future24
   121.0.122.22: 아론온라인-blka
-TSPersonalShop:
   45.32.53.206: 레오서버-mintoes
+TSPersonalShop:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
   1.220.94.186: 핫온라인-hunstrs229
@@ -144,8 +142,8 @@ TSPersonalShop:
   101.79.4.77: 잎새온라인-flowerdance
   121.0.122.21: 미래서버-future24
   121.0.122.19: 밀비서버-caster
-TSSmartShop:
   45.32.53.206: 레오서버-mintoes
+TSSmartShop:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
   101.79.4.34: 팜온라인-hyunwoo
@@ -154,18 +152,18 @@ TSSmartShop:
   101.79.4.81: 봄서버-bom
   211.115.84.78: 아리아서버-zeo
   121.0.122.21: 미래서버-future24
+  45.32.53.206: 레오서버-mintoes
 TSTimeToBanCommands:
-  45.32.53.206: 레오서버-mintoes
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
   101.79.4.81: 봄서버-bom
+  45.32.53.206: 레오서버-mintoes
 TSTimeBroadCaster:
-  45.32.53.206: 레오서버-mintoes
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
   101.79.4.81: 봄서버-bom
-TSTutorial:
   45.32.53.206: 레오서버-mintoes
+TSTutorial:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
   101.79.4.34: 팜온라인-hyunwoo
@@ -176,4 +174,8 @@ TSTutorial:
   118.33.237.101: 에루서버-eru
   121.0.122.21: 미래서버-future24
   121.0.122.22: 아론온라인-blka
+  45.32.53.206: 레오서버-mintoes
+TSSponsor:
+  45.32.53.206: 레오서버-mintoes
+  121.0.122.21: 미래서버-future24
 ...
