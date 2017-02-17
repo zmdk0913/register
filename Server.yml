@@ -33,8 +33,8 @@ TSBox:
   45.32.53.206: 레오서버-mintoes
   101.79.4.44: 봄서버-bom
   121.0.122.25: 포미온라인-kangkang
-  125.185.184.166: 로엘온라인-creeper
   118.33.237.101: 에루서버-eru
+  125.185.184.166: 로엘온라인-creeper
   101.79.4.33: L.S서버-hangju77
 TSBurningEvent:
   45.76.209.200: 하이플온라인-starmandu
@@ -71,6 +71,7 @@ TSDontDropCrops:
   211.115.84.67: 포로리온라인-pororipodo
   101.79.4.44: 봄서버-bom
   I-NET.F4M.KR: 아덴서버-ddory
+  101.79.4.47: 잎새온라인-flowerdance
 TSFriend:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -83,6 +84,7 @@ TSFriend:
   45.32.53.206: 레오서버-mintoes
   101.79.4.44: 봄서버-bom
   118.33.237.101: 에루서버-eru
+  101.79.4.47: 잎새온라인-flowerdance
 TSFurnace:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -136,6 +138,7 @@ TSPrefix:
   45.32.53.206: 레오서버-mintoes
   101.79.4.44: 봄서버-bom
   118.33.237.101: 에루서버-eru
+  101.79.4.47: 잎새온라인-flowerdance
 TSProposer:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -143,6 +146,7 @@ TSProposer:
   101.79.4.81: 봄서버-bom
   45.32.53.206: 레오서버-mintoes
   101.79.4.44: 봄서버-bom
+  125.185.184.166: 로엘온라인-creeper
 TSProtectChest:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -166,6 +170,7 @@ TSPersonalShop:
   45.32.53.206: 레오서버-mintoes
   101.79.4.44: 봄서버-bom
   45.32.34.173: 시우서버-korosensei
+  101.79.4.47: 잎새온라인-flowerdance
 TSSmartShop:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
