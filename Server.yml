@@ -8,7 +8,7 @@ TSGuild:
   45.32.53.206: 레오서버-mintoes
   101.79.4.44: 봄서버-bom
   183.99.202.227: 핫온라인-hunstrs229
-  121.0.122.29: 미래서버-future24
+  119.193.199.164: 미래서버-future24
 TSAnnounce:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -19,7 +19,7 @@ TSAnnounce:
   121.0.122.22: 아론온라인-blka
   45.32.53.206: 레오서버-mintoes
   101.79.4.44: 봄서버-bom
-  121.0.122.29: 미래서버-future24
+  119.193.199.164: 미래서버-future24
 TSBox:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -31,11 +31,11 @@ TSBox:
   121.0.122.22: 아론온라인-blka
   45.32.53.206: 레오서버-mintoes
   101.79.4.44: 봄서버-bom
-  121.0.122.25: 포미온라인-kangkang
   118.33.237.101: 에루서버-eru
   125.185.184.166: 로엘온라인-creeper
   101.79.4.33: L.S서버-hangju77
-  121.0.122.29: 미래서버-future24
+  222.101.47.6: 포미온라인-kangkang
+  119.193.199.164: 미래서버-future24
 TSBurningEvent:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -45,7 +45,7 @@ TSBurningEvent:
   101.79.4.44: 봄서버-bom
   118.33.237.101: 에루서버-eru
   183.99.202.227: 핫온라인-hunstrs229
-  121.0.122.29: 미래서버-future24
+  119.193.199.164: 미래서버-future24
 TSCoupon:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -56,9 +56,9 @@ TSCoupon:
   121.0.122.22: 아론온라인-blka
   45.32.53.206: 레오서버-mintoes
   101.79.4.44: 봄서버-bom
-  121.0.122.25: 포미온라인-kangkang
   45.32.34.173: 시우서버-korosensei
-  121.0.122.29: 미래서버-future24
+  222.101.47.6: 포미온라인-kangkang
+  119.193.199.164: 미래서버-future24
 TSDontDropCrops:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -84,7 +84,7 @@ TSFriend:
   101.79.4.44: 봄서버-bom
   118.33.237.101: 에루서버-eru
   101.79.4.47: 잎새온라인-flowerdance
-  121.0.122.29: 미래서버-future24
+  119.193.199.164: 미래서버-future24
 TSFurnace:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -108,23 +108,23 @@ TSNoColor:
   101.79.4.81: 봄서버-bom
   45.32.53.206: 레오서버-mintoes
   101.79.4.44: 봄서버-bom
-  121.0.122.25: 포미온라인-kangkang
   118.33.237.101: 에루서버-eru
-  121.0.122.29: 미래서버-future24
+  222.101.47.6: 포미온라인-kangkang
+  119.193.199.164: 미래서버-future24
 TSNoSpam:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
   101.79.4.81: 봄서버-bom
   45.32.53.206: 레오서버-mintoes
   101.79.4.44: 봄서버-bom
-  121.0.122.29: 미래서버-future24
+  119.193.199.164: 미래서버-future24
 TSPayToHome:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
   101.79.4.81: 봄서버-bom
   45.32.53.206: 레오서버-mintoes
   101.79.4.44: 봄서버-bom
-  121.0.122.29: 미래서버-future24
+  119.193.199.164: 미래서버-future24
 TSPrefix:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -138,7 +138,7 @@ TSPrefix:
   101.79.4.44: 봄서버-bom
   118.33.237.101: 에루서버-eru
   101.79.4.47: 잎새온라인-flowerdance
-  121.0.122.29: 미래서버-future24
+  119.193.199.164: 미래서버-future24
 TSProposer:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -158,7 +158,7 @@ TSProtectChest:
   45.32.34.173: 시우서버-korosensei
   118.33.237.101: 에루서버-eru
   183.99.202.227: 핫온라인-hunstrs229
-  121.0.122.29: 미래서버-future24
+  119.193.199.164: 미래서버-future24
 TSPersonalShop:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -171,7 +171,7 @@ TSPersonalShop:
   101.79.4.47: 잎새온라인-flowerdance
   121.0.122.27: 밀비서버-caster
   183.99.202.227: 핫온라인-hunstrs229
-  121.0.122.29: 미래서버-future24
+  119.193.199.164: 미래서버-future24
 TSSmartShop:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -183,7 +183,7 @@ TSSmartShop:
   101.79.4.44: 봄서버-bom
   121.0.122.17: 엘드온라인-eld
   183.99.202.227: 핫온라인-hunstrs229
-  121.0.122.29: 미래서버-future24
+  119.193.199.164: 미래서버-future24
 TSTimeToBanCommands:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -209,9 +209,9 @@ TSTutorial:
   45.32.34.173: 시우서버-korosensei
   118.33.237.101: 에루서버-eru
   183.99.202.227: 핫온라인-hunstrs229
-  121.0.122.29: 미래서버-future24
+  119.193.199.164: 미래서버-future24
 TSSponsor:
   45.32.53.206: 레오서버-mintoes
   118.33.237.101: 에루서버-eru
-  121.0.122.29: 미래서버-future24
+  119.193.199.164: 미래서버-future24
 ...
