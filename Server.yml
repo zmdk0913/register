@@ -22,7 +22,8 @@ TSAnnounce:
   121.0.122.54: 봄서버-bom
   183.99.202.86: 핫온라인-hunstrs229
   121.78.158.205: 레오서버-mintoes
-  121.78.158.201: 루하온라인-gumiho
+  45.32.33.22: KNPO온라인-kormin
+  61.14.208.69: 루하온라인-gumiho
 TSBox:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -66,7 +67,7 @@ TSCoupon:
   119.193.199.164: 미래서버-future24
   121.0.122.54: 봄서버-bom
   121.78.158.205: 레오서버-mintoes
-  121.78.158.201: 루하온라인-gumiho
+  61.14.208.69: 루하온라인-gumiho
 TSDontDropCrops:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -79,7 +80,7 @@ TSDontDropCrops:
   121.0.122.54: 봄서버-bom
   121.78.158.232: 잎새온라인-flowerdance
   121.78.158.205: 레오서버-mintoes
-  121.78.158.201: 루하온라인-gumiho
+  61.14.208.69: 루하온라인-gumiho
 TSFriend:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -118,7 +119,7 @@ TSNoColor:
   121.78.158.204: 허온라인-huh_
   121.0.122.54: 봄서버-bom
   121.78.158.205: 레오서버-mintoes
-  121.78.158.201: 루하온라인-gumiho
+  61.14.208.69: 루하온라인-gumiho
 TSNoSpam:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -198,7 +199,7 @@ TSSmartShop:
   121.0.122.54: 봄서버-bom
   183.99.202.86: 핫온라인-hunstrs229
   121.78.158.205: 레오서버-mintoes
-  121.78.158.201: 루하온라인-gumiho
+  61.14.208.69: 루하온라인-gumiho
 TSTimeToBanCommands:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
