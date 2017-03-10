@@ -24,7 +24,6 @@ TSAnnounce:
   45.32.33.22: KNPO온라인-kormin
   121.78.158.253: 눈설온라인-nunseol
   61.14.208.69: 루하온라인-gumiho
-  1.220.94.186: 서버이름없음-sktnote6
   118.33.236.74: 봄서버-bom
 TSBox:
   45.76.209.200: 하이플온라인-starmandu
@@ -56,7 +55,6 @@ TSBurningEvent:
   183.99.202.86: 핫온라인-hunstrs229
   121.78.158.205: 레오서버-mintoes
   118.33.237.101: 에루서버-eru
-  1.220.94.186: 서버이름없음-sktnote6
   118.33.236.74: 봄서버-bom
 TSCoupon:
   45.76.209.200: 하이플온라인-starmandu
@@ -109,10 +107,9 @@ TSMine:
   45.32.249.24: SKY서버-netherkom
   101.79.4.81: 봄서버-bom
   121.78.158.205: 레오서버-mintoes
-  1.220.94.186: 서버이름없음-sktnote6
   118.33.236.123: 팜온라인-hyunwoo
   118.33.236.74: 봄서버-bom
-  112.152.20.35: 하이츠서버-eimayto
+  Heights.bon24.kr: 하이츠서버-eimayto
 TSNoColor:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -157,7 +154,6 @@ TSPrefix:
   121.78.158.253: 눈설온라인-nunseol
   121.254.153.185: 젤리서버-jelly
   118.33.237.101: 에루서버-eru
-  1.220.94.186: 서버이름없음-sktnote6
   118.33.236.74: 봄서버-bom
 TSProposer:
   45.76.209.200: 하이플온라인-starmandu
@@ -211,6 +207,7 @@ TSSmartShop:
   61.14.208.69: 루하온라인-gumiho
   118.33.236.123: 팜온라인-hyunwoo
   118.33.236.74: 봄서버-bom
+  1.220.94.186: 빙하서버-polarbear
 TSTimeToBanCommands:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -238,7 +235,6 @@ TSTutorial:
   121.78.158.205: 레오서버-mintoes
   118.33.237.133: 팔풀서버-majang
   118.33.237.101: 에루서버-eru
-  1.220.94.186: 서버이름없음-sktnote6
   118.33.236.123: 팜온라인-hyunwoo
   118.33.236.74: 봄서버-bom
 TSSponsor:
