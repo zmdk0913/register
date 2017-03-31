@@ -113,7 +113,7 @@ TSMine:
   150.95.128.254: 레오서버-mintoes
   121.0.122.54: 봄서버-bom
   45.76.208.189: 서버이름없음-sktnote6
-  125.188.117.180: 하이츠서버-eimayto
+  125.188.117.196: 하이츠서버-eimayto
 TSNoColor:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -161,7 +161,7 @@ TSPrefix:
   45.76.208.189: 서버이름없음-sktnote6
   45.76.202.248: 젤리서버-jelly
   121.78.158.231: 라이트인서버-blna
-  tgmcpe.oa.to: TG서버-sdsoso
+  61.97.249.38: TG서버-sdsoso
 TSProposer:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -215,7 +215,7 @@ TSSmartShop:
   119.193.199.136: 루하온라인-gumiho
   121.0.122.54: 봄서버-bom
   150.95.145.114: 핫온라인-hunstrs229
-  125.188.117.180: 하이츠서버-eimayto
+  125.188.117.196: 하이츠서버-eimayto
 TSTimeToBanCommands:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
