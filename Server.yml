@@ -49,6 +49,7 @@ TSBox:
   45.77.12.227: DTSonline-jun04
   118.33.237.193: 이리온라인-nupon
   45.77.22.191: 팔풀서버-majang
+  108.61.180.219: 오로라서버-doublecookie
 TSBurningEvent:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -161,7 +162,7 @@ TSPrefix:
   45.76.208.189: 서버이름없음-sktnote6
   45.76.202.248: 젤리서버-jelly
   121.78.158.231: 라이트인서버-blna
-  61.97.249.38: TG서버-sdsoso
+  1.220.94.186: TG서버-sdsoso
 TSProposer:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
