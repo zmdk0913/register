@@ -21,11 +21,11 @@ TSAnnounce:
   45.32.33.22: KNPO온라인-kormin
   121.78.158.253: 눈설온라인-nunseol
   150.95.128.254: 레오서버-mintoes
-  119.193.199.136: 루하온라인-gumiho
   121.0.122.54: 봄서버-bom
   150.95.145.114: 핫온라인-hunstrs229
   45.76.208.189: 서버이름없음-sktnote6
   121.78.158.231: 라이트인서버-blna
+  119.193.199.136: 루하온라인-gumiho
 TSBox:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -50,6 +50,7 @@ TSBox:
   118.33.237.193: 이리온라인-nupon
   45.77.22.191: 팔풀서버-majang
   108.61.180.219: 오로라서버-doublecookie
+  61.14.208.73: 바람서버-pung_nan
 TSBurningEvent:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -72,8 +73,9 @@ TSCoupon:
   222.101.47.6: 포미온라인-kangkang
   119.193.199.164: 미래서버-future24
   150.95.128.254: 레오서버-mintoes
-  119.193.199.136: 루하온라인-gumiho
   121.0.122.54: 봄서버-bom
+  119.193.199.136: 루하온라인-gumiho
+  61.14.208.73: 바람서버-pung_nan
 TSDontDropCrops:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -84,9 +86,9 @@ TSDontDropCrops:
   211.115.84.67: 포로리온라인-pororipodo
   118.33.237.178: 아덴서버-ddory
   150.95.128.254: 레오서버-mintoes
-  119.193.199.136: 루하온라인-gumiho
   118.33.236.22: 잎새온라인-flowerdance
   121.0.122.54: 봄서버-bom
+  119.193.199.136: 루하온라인-gumiho
 TSFriend:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -126,8 +128,8 @@ TSNoColor:
   121.78.158.204: 허온라인-huh_
   118.33.237.101: 에루서버-eru
   150.95.128.254: 레오서버-mintoes
-  119.193.199.136: 루하온라인-gumiho
   121.0.122.54: 봄서버-bom
+  119.193.199.136: 루하온라인-gumiho
 TSNoSpam:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -199,6 +201,7 @@ TSPersonalShop:
   118.33.236.22: 잎새온라인-flowerdance
   121.0.122.54: 봄서버-bom
   150.95.145.114: 핫온라인-hunstrs229
+  61.14.208.73: 바람서버-pung_nan
 TSSmartShop:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -213,10 +216,11 @@ TSSmartShop:
   118.33.236.123: 팜온라인-hyunwoo
   150.95.128.254: 레오서버-mintoes
   121.0.122.46: 아리아온라인-zeo
-  119.193.199.136: 루하온라인-gumiho
   121.0.122.54: 봄서버-bom
   150.95.145.114: 핫온라인-hunstrs229
   125.188.117.196: 하이츠서버-eimayto
+  119.193.199.136: 루하온라인-gumiho
+  61.14.208.73: 바람서버-pung_nan
 TSTimeToBanCommands:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
