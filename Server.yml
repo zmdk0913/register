@@ -26,6 +26,7 @@ TSAnnounce:
   45.76.208.189: 서버이름없음-sktnote6
   121.78.158.231: 라이트인서버-blna
   119.193.199.136: 루하온라인-gumiho
+  61.97.249.7: 론이서버-ronis
 TSBox:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -51,6 +52,7 @@ TSBox:
   45.77.22.191: 팔풀서버-majang
   108.61.180.219: 오로라서버-doublecookie
   61.14.208.73: 바람서버-pung_nan
+  61.97.249.7: 론이서버-ronis
 TSBurningEvent:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -76,6 +78,7 @@ TSCoupon:
   121.0.122.54: 봄서버-bom
   119.193.199.136: 루하온라인-gumiho
   61.14.208.73: 바람서버-pung_nan
+  61.97.249.7: 론이서버-ronis
 TSDontDropCrops:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -89,6 +92,7 @@ TSDontDropCrops:
   118.33.236.22: 잎새온라인-flowerdance
   121.0.122.54: 봄서버-bom
   119.193.199.136: 루하온라인-gumiho
+  61.97.249.7: 론이서버-ronis
 TSFriend:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -102,12 +106,14 @@ TSFriend:
   118.33.236.22: 잎새온라인-flowerdance
   121.0.122.54: 봄서버-bom
   45.77.22.191: 팔풀서버-majang
+  61.97.249.7: 론이서버-ronis
 TSFurnace:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
   101.79.4.81: 봄서버-bom
   150.95.128.254: 레오서버-mintoes
   121.0.122.54: 봄서버-bom
+  61.97.249.7: 론이서버-ronis
 TSMine:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -117,6 +123,7 @@ TSMine:
   121.0.122.54: 봄서버-bom
   45.76.208.189: 서버이름없음-sktnote6
   125.188.117.196: 하이츠서버-eimayto
+  61.97.249.7: 론이서버-ronis
 TSNoColor:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -130,6 +137,7 @@ TSNoColor:
   150.95.128.254: 레오서버-mintoes
   121.0.122.54: 봄서버-bom
   119.193.199.136: 루하온라인-gumiho
+  61.97.249.7: 론이서버-ronis
 TSNoSpam:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -187,6 +195,7 @@ TSProtectChest:
   121.0.122.54: 봄서버-bom
   150.95.145.114: 핫온라인-hunstrs229
   45.77.22.191: 팔풀서버-majang
+  61.97.249.7: 론이서버-ronis
 TSPersonalShop:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -202,6 +211,7 @@ TSPersonalShop:
   121.0.122.54: 봄서버-bom
   150.95.145.114: 핫온라인-hunstrs229
   61.14.208.73: 바람서버-pung_nan
+  61.97.249.7: 론이서버-ronis
 TSSmartShop:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -221,6 +231,7 @@ TSSmartShop:
   125.188.117.196: 하이츠서버-eimayto
   119.193.199.136: 루하온라인-gumiho
   61.14.208.73: 바람서버-pung_nan
+  61.97.249.7: 론이서버-ronis
 TSTimeToBanCommands:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
