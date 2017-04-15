@@ -270,4 +270,10 @@ TSPvp:
 TSServerManager:
   118.33.237.101: 에루서버-eru
   150.95.128.254: 레오서버-mintoes
+TSPackage:
+  150.95.128.254: 레오서버-mintoes
+TSFindingThing:
+  150.95.128.254: 레오서버-mintoes
+TSSuddenlyQuiz:
+  150.95.128.254: 레오서버-mintoes
 ...
