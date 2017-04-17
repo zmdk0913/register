@@ -22,11 +22,12 @@ TSAnnounce:
   121.78.158.253: 눈설온라인-nunseol
   121.0.122.54: 봄서버-bom
   150.95.145.114: 핫온라인-hunstrs229
-  45.76.208.189: 서버이름없음-sktnote6
   121.78.158.231: 라이트인서버-blna
   118.33.237.5: 루하온라인-gumiho
   123.1234.23: 론이서버-ronis
   150.95.128.254: 레오서버-mintoes
+  45.76.50.62: 루하온라인-gumiho
+  45.77.14.10: 서버이름없음-sktnote6
 TSBox:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -63,8 +64,8 @@ TSBurningEvent:
   118.33.237.101: 에루서버-eru
   121.0.122.54: 봄서버-bom
   150.95.145.114: 핫온라인-hunstrs229
-  45.76.208.189: 서버이름없음-sktnote6
   150.95.128.254: 레오서버-mintoes
+  45.77.14.10: 서버이름없음-sktnote6
 TSCoupon:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -79,6 +80,8 @@ TSCoupon:
   118.33.237.5: 루하온라인-gumiho
   123.1234.23: 론이서버-ronis
   150.95.128.254: 레오서버-mintoes
+  121.0.122.82: 허스키온라인-husky
+  45.76.50.62: 루하온라인-gumiho
 TSDontDropCrops:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -93,6 +96,7 @@ TSDontDropCrops:
   118.33.237.5: 루하온라인-gumiho
   123.1234.23: 론이서버-ronis
   150.95.128.254: 레오서버-mintoes
+  45.76.50.62: 루하온라인-gumiho
 TSFriend:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -107,6 +111,7 @@ TSFriend:
   45.77.22.191: 팔풀서버-majang
   123.1234.23: 론이서버-ronis
   150.95.128.254: 레오서버-mintoes
+  121.0.122.82: 허스키온라인-husky
 TSFurnace:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -120,10 +125,10 @@ TSMine:
   101.79.4.81: 봄서버-bom
   118.33.236.123: 팜온라인-hyunwoo
   121.0.122.54: 봄서버-bom
-  45.76.208.189: 서버이름없음-sktnote6
   125.188.117.196: 하이츠서버-eimayto
   123.1234.23: 론이서버-ronis
   150.95.128.254: 레오서버-mintoes
+  45.77.14.10: 서버이름없음-sktnote6
 TSNoColor:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -138,6 +143,7 @@ TSNoColor:
   118.33.237.5: 루하온라인-gumiho
   123.1234.23: 론이서버-ronis
   150.95.128.254: 레오서버-mintoes
+  45.76.50.62: 루하온라인-gumiho
 TSNoSpam:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -168,10 +174,11 @@ TSPrefix:
   118.33.236.123: 팜온라인-hyunwoo
   118.33.236.22: 잎새온라인-flowerdance
   121.0.122.54: 봄서버-bom
-  45.76.208.189: 서버이름없음-sktnote6
   45.76.202.248: 젤리서버-jelly
   121.78.158.231: 라이트인서버-blna
   150.95.128.254: 레오서버-mintoes
+  121.0.122.82: 허스키온라인-husky
+  45.77.14.10: 서버이름없음-sktnote6
 TSProposer:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -180,6 +187,7 @@ TSProposer:
   121.0.122.54: 봄서버-bom
   45.77.22.191: 팔풀서버-majang
   150.95.128.254: 레오서버-mintoes
+  121.0.122.82: 허스키온라인-husky
 TSProtectChest:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -230,6 +238,7 @@ TSSmartShop:
   118.33.237.5: 루하온라인-gumiho
   123.1234.23: 론이서버-ronis
   150.95.128.254: 레오서버-mintoes
+  45.76.50.62: 루하온라인-gumiho
 TSTimeToBanCommands:
   45.76.209.200: 하이플온라인-starmandu
   45.32.249.24: SKY서버-netherkom
@@ -256,9 +265,10 @@ TSTutorial:
   118.33.236.123: 팜온라인-hyunwoo
   121.0.122.54: 봄서버-bom
   150.95.145.114: 핫온라인-hunstrs229
-  45.76.208.189: 서버이름없음-sktnote6
   45.77.22.191: 팔풀서버-majang
   150.95.128.254: 레오서버-mintoes
+  121.0.122.82: 허스키온라인-husky
+  45.77.14.10: 서버이름없음-sktnote6
 TSSponsor:
   119.193.199.164: 미래서버-future24
   118.33.237.101: 에루서버-eru
