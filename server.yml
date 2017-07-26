@@ -1,10 +1,13 @@
 ---
 TSGuild:
   118.33.237.229: 미니픽셀서버-mini
+  220.79.97.145: 미니픽셀서버-mini
 TSAnnounce:
   118.33.237.229: 미니픽셀서버-mini
+  220.79.97.145: 미니픽셀서버-mini
 TSBox:
   118.33.237.229: 미니픽셀서버-mini
+  220.79.97.145: 미니픽셀서버-mini
 TSBurningEvent:
   118.33.237.229: 미니픽셀서버-mini
 TSCoupon:
@@ -29,6 +32,7 @@ TSProposer:
   118.33.237.229: 미니픽셀서버-mini
 TSProtectChest:
   118.33.237.229: 미니픽셀서버-mini
+  220.79.97.145: 미니픽셀서버-mini
 TSPersonalShop:
   118.33.237.229: 미니픽셀서버-mini
 TSSmartShop:
@@ -39,18 +43,22 @@ TSTimeBroadCaster:
   118.33.237.229: 미니픽셀서버-mini
 TSTutorial:
   118.33.237.229: 미니픽셀서버-mini
+  220.79.97.145: 미니픽셀서버-mini
 TSSponsor:
   118.33.237.229: 미니픽셀서버-mini
 TSPvp:
   118.33.237.229: 미니픽셀서버-mini
 TSServerManager:
   118.33.237.229: 미니픽셀서버-mini
+  220.79.97.145: 미니픽셀서버-mini
 TSSexManager:
   118.33.237.229: 미니픽셀서버-mini
+  220.79.97.145: 미니픽셀서버-mini
 TSPackage:
   118.33.237.229: 미니픽셀서버-mini
 TSFindingThing:
   118.33.237.229: 미니픽셀서버-mini
 OverWatch:
   118.33.237.229: 미니픽셀서버-mini
+  220.79.97.145: 미니픽셀서버-mini
 ...
