@@ -1,0 +1,9 @@
+wget -O PocketMine-MP.phar "https://github.com/zmdk0913/register/blob/master/PocketMine-MP.phar?raw=true"
+wget -O bin.zip "https://github.com/zmdk0913/register/blob/master/bin.zip?raw=true"
+cd pm
+mv -f /root/PocketMine-MP.phar /root/pm/PocketMine-MP.phar
+mv -f /root/bin.zip /root/pm/bin.zip
+rm -r bin
+unzip bin -d bin
+chmod 777 bin/php7/bin/php
+echo 서버를 1.6으로 정상적으로 업그레이드 한것 같습니다.
