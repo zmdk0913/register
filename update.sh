@@ -5,6 +5,7 @@ cd pm
 mv -f /root/PocketMine-MP.phar /root/pm/PocketMine-MP.phar
 mv -f /root/bin.zip /root/pm/bin.zip
 mv -f /root/start.sh /root/pm/start.sh
+chmod 777 start.sh
 rm -r bin
 unzip bin -d bin
 chmod 777 bin/php7/bin/php
