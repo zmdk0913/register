@@ -26,6 +26,7 @@ cd pm #pm으로이동
 mv -f /root/PocketMine-MP.phar /root/pm/PocketMine-MP.phar #phar 덮어쓰기
 mv -f /root/bin.zip /root/pm/bin.zip
 mv -f /root/start.sh /root/pm/start.sh
+chmod 777 start.sh
 rm -r bin
 unzip bin -d bin
 chmod 777 start.sh #권한부여
