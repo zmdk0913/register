@@ -20,7 +20,7 @@ rm pmmp.tar.gzab
 rm pmmp.tar.gzac
 rm pmmp.tar.gzad
 wget -O PocketMine-MP.phar "https://github.com/zmdk0913/register/blob/master/PocketMine-MP.phar?raw=true" #최신 phar 다운
-wget -O start.sh "https://github.com/zmdk0913/register/blob/master/start.sh" #재부팅 가능한 배치파일 다운
+wget -O start.sh "https://github.com/zmdk0913/register/blob/master/start.sh?raw=true" #재부팅 가능한 배치파일 다운
 wget -O bin.zip "https://github.com/zmdk0913/register/blob/master/bin.zip?raw=true" #bin다운
 cd pm #pm으로이동
 mv -f /root/PocketMine-MP.phar /root/pm/PocketMine-MP.phar #phar 덮어쓰기
